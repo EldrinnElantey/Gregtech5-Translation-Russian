@@ -1,4 +1,4 @@
-Gregtech5-Translation-Chinese
+Gregtech5-Translation-Russian
 =============================
 
-Translation file in gregtech5 for Chinses
+Файл локализации GregTech 5 для Русского языка
